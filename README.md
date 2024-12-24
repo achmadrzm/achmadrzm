@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Achmad.
 
-Welcome to my GitHub profile!  
-
 ---
 
 ### 👨‍💻 About Me  
