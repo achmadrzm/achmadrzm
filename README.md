@@ -23,8 +23,8 @@ Welcome to my GitHub profile!
 - Open to innovative ideas and exciting collaborations  
 
 ### 📫 How to reach me:    
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/achmadrohman)  
-![Personal Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)(http://achmadrzm.site)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmadrohman)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](http://achmadrzm.site) 
 
 ### ⚡ Fun Fact:  
 I love exploring how technology can solve real-world problems and I'm always up for learning new tools and frameworks!  
