@@ -1,4 +1,6 @@
-## Hi there 👋, I'm Achmad.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&size=30&pause=300&color=1ABC9C&center=true&vCenter=true&width=600&height=70&lines=Achmad+Rohmandzoni" />
+</h1>
 
 ---
 
