@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&size=30&pause=300&color=1ABC9C&center=true&vCenter=true&width=600&height=70&lines=Achmad+Rohmandzoni" />
 </h1>
 
----
-
 ### 👨‍💻 About Me  
 - 🎓 **Third-year Computer Engineering student** at Universitas Brawijaya  
 - 🤖 **Passionate about:** Robotics, Data Science, Machine Learning, IoT, and Networking  
